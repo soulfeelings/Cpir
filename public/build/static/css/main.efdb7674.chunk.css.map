@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/App/App.module.css","webpack://src/index.css"],"names":[],"mappings":"AAAA,UACE,UACF,CCDA,KAEE,QAAS,CACT,SACF","file":"main.efdb7674.chunk.css","sourcesContent":["a:visited{\n  color: black;\n}\n","\nhtml {\n  \n  margin: 0;\n  padding: 0;\n}\n"]}

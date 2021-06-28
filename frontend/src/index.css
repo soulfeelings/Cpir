@@ -1,0 +1,10 @@
+
+html {
+  
+  margin: 0;
+  padding: 0;
+}
+ a{
+   list-style-type: none !important;
+   color: #000 !important;
+ }
